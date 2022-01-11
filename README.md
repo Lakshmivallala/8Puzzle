@@ -1,2 +1,2 @@
 # 8Puzzle
-8 Puzzle game using BFS
+AI group project: 8 Puzzle game using BFS
